@@ -1,0 +1,26 @@
+.work{
+    text-align: center;
+    width: 100%;
+}
+
+.work img{
+    margin: 1%;
+    width: 45%;
+}
+
+/* header2  */
+
+.header2{
+    margin: 130px 0 80px 40px;
+}
+
+/* work2 */
+.work2{
+    width: 100%;
+    text-align: center;
+}
+
+.work2 img{
+    margin:1%;
+    width: 94%;
+}
